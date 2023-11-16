@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently w🔭 I’m currently working on iOS Development.<br>🤝 I’m looking for help with new opportunities or Mentorship about being an iOS Dev.<br>🌱 I’m currently learning UIKit & SwiftUI and Php.<br>💬 Ask me about anything you wonder.<br>✋🏼 You can reach me by mail or on LinkedIn
+🔭 I’m currently working on iOS Development.<br>🤝 I’m looking for help with new opportunities or Mentorship about being an iOS Dev.<br>🌱 I’m currently learning UIKit & SwiftUI and Php.<br>💬 Ask me about anything you wonder.<br>✋🏼 You can reach me by mail or on LinkedIn
 
 
 ## 🌐 Socials:
